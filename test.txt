@@ -3,3 +3,4 @@ line added.
 git status test
 practice for git.
 
+git diff
